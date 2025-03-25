@@ -1,1 +1,1 @@
-console.log("minh la Xu ne")
+console.log("minh la Xu ne va minh rat de thuong")
